@@ -1,4 +1,4 @@
-Hacker-to-be. Hello-world.
+Hacker-to-be. Hello-world!
 ============
 
 My first (test) repository.
